@@ -1,4 +1,4 @@
-# CreativeFlow AI (AI Builder Assignment) 🚀
+# CreativeFlow AI (AI Builder Assignment) 
 
 A full-stack application that automates creative workflows by transforming static images into viral social media assets (captions, hashtags, and descriptions) using Multimodal AI.
 
